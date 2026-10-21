@@ -1,11 +1,11 @@
-## Olá! 👋
+## Hello! 👋
 
-Me chamo José Rodrigo.
+Im Rodrigo 😎
 
-Curso Análise e Desenvolvimento de Sistemas na Cesar School.
-![Cesar School](https://img.shields.io/badge/Cesar%20School-FF7F00?style=flat-square&logoColor=white)
+I'm studying Systems Analysis and Development at
+![Cesar School](https://img.shields.io/badge/Cesar%20School-FF7F00?style=flat-square&logoColor=white).
 
-Tenho interesse em desenvolvimento back-end e busco evoluir minhas habilidades em Java e nas tecnologias relacionadas.
+I'm interested in back-end development and I'm working on improving my skills in Java and related technologies.
 
 ## 🛠️ Skills
 
@@ -17,7 +17,7 @@ Tenho interesse em desenvolvimento back-end e busco evoluir minhas habilidades e
 
 ![Front-end](https://skillicons.dev/icons?i=react,ts,nextjs,tailwind)
 
-## 📫 Contato
+## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigobisppo)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigobisppo123@gmail.com)
