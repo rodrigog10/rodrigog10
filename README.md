@@ -1,7 +1,8 @@
 ## Olá! 👋
 
 Me chamo José Rodrigo.
-Tenho grande interesse na área de desenvolvimento back-end e estou buscando evoluir minhas habilidades em Java e nas tecnologias relacionadas.
+Sou estudante e curso Análise e desenvolvimento de sistemas na Cesar School.
+Possuo interesse na área de desenvolvimento back-end e estou buscando evoluir minhas habilidades em Java e nas tecnologias relacionadas.
 
 ## 🛠️ Skills
 
