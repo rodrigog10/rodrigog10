@@ -1,21 +1,19 @@
-## Hello! 👋
+## hello, i'm Rodrigo 👋😎
 
-Im Rodrigo 😎
-
-
-I'm interested in back-end development and I'm working on improving my skills in Java and related technologies.
-
+- 📍 Recife, Olinda - PE, Brazil
+- 🎓 student at @CESAR School
+  
 ## 🛠️ Skills
 
-### Back-end
+### back-end
 
 ![Back-end](https://skillicons.dev/icons?i=java,spring,docker,maven,postman)
 
-### Front-end
+### front-end
 
 ![Front-end](https://skillicons.dev/icons?i=react,ts,nextjs,tailwind)
 
-## 📫 Contact
+## 📫 contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigobisppo)
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigobisppo123@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/rodrigobisppo)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=black)](mailto:rodrigobisppo123@gmail.com)
