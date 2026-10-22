@@ -5,7 +5,7 @@
 - 📍 Recife, Brazil
   
   
-## 🛠️ skills
+## skills
 
 ### back-end
 
