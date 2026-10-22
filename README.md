@@ -1,8 +1,8 @@
 ## hello, i'm Rodrigo 👋😎
 
 
-- 📍 Recife, Brazil
 - 🎓 student at @CESAR School
+- 📍 Recife, Brazil
   
   
 ## 🛠️ skills
