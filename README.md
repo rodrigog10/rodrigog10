@@ -2,8 +2,6 @@
 
 Im Rodrigo 😎
 
-I'm studying Systems Analysis and Development at
-![Cesar School](https://img.shields.io/badge/Cesar%20School-FF7F00?style=flat-square&logoColor=white).
 
 I'm interested in back-end development and I'm working on improving my skills in Java and related technologies.
 
