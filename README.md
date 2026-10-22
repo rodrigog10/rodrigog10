@@ -1,9 +1,11 @@
 ## hello, i'm Rodrigo 👋😎
 
-- 📍 Recife, Olinda - PE, Brazil
+
+- 📍 Recife, Brazil
 - 🎓 student at @CESAR School
   
-## 🛠️ Skills
+  
+## 🛠️ skills
 
 ### back-end
 
