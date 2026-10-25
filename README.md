@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hello, I'm Rodrigo 👋😎
+# hi, im Rodrigo 👋
 
-### Student at [CESAR School](https://www.cesar.school/) 🎓
+### student at [CESAR School](https://www.cesar.school/) 🎓
 📍 Recife, Brazil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigobisppo)
@@ -12,9 +12,9 @@
 
 ---
 
-## 🛠️ Skills
+## 🛠️ skills
 
-### 🔧 Back-end
+### 🔧 back-end
 
 [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 [![Spring](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
@@ -23,14 +23,14 @@
 [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
 
-### 🎨 Front-end
+### 🎨 front-end
 
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
 [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
 [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
 
-### 🐧 Operating Systems
+###  Operating Systems
 
 [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 [![Linux Mint](https://skillicons.dev/icons?i=mint)](https://skillicons.dev)
