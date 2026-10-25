@@ -30,16 +30,10 @@
 [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
 [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
 
-###  Operating Systems
-
+###  OS
 [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 [![Linux Mint](https://skillicons.dev/icons?i=mint)](https://skillicons.dev)
 
----
-
-## 📫 Contact
-
-Feel free to reach out on LinkedIn or by e-mail!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigobisppo)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rodrigobisppo123@gmail.com)
