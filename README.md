@@ -9,11 +9,11 @@
 
 ### back-end
 
-[![Back-end](https://skillicons.dev/icons?i=java,spring,postgres,flyway,docker,postman)](https://skillicons.dev)
+[![Back-end](https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,postman)](https://skillicons.dev)
 
 ### front-end
 
-![Front-end](https://skillicons.dev/icons?i=react,ts,nextjs,tailwind)
+![Front-end](https://skillicons.dev/icons?i=ts,react,tailwind,nextjs)
 
 ### SO
 
