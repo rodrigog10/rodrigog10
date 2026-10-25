@@ -5,12 +5,7 @@
 - 📍 Recife, Brazil
   
   
-## skills
-
-### back-end
-
-### back-end
-
+## my skills
 
 ### back-end
 
@@ -19,6 +14,10 @@
 ### front-end
 
 ![Front-end](https://skillicons.dev/icons?i=react,ts,nextjs,tailwind)
+
+### SO
+
+![operational-system](https://skillicons.dev/icons?i=linux,mint)
 
 ## contact
 
