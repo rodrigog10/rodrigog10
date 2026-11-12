@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Rodrigo&fontSize=56&fontColor=ffffff&fontAlignY=38)
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&width=520&lines=Recife%2C+Brazil;Back-end+developer;Student+at+CESAR+School" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&width=520&lines=Recife%2C+Brazil;Back-end+developer;Student+at+CESAR+School" alt="Typing SVG" />
 </a>
 
 <p>
@@ -36,7 +36,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=rodrigog10&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="Stats" />
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigog10&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top languages" />
-
----
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header)
