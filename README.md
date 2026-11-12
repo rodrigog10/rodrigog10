@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # hi, im Rodrigo 👋
 
@@ -11,8 +11,6 @@
 <a href="mailto:rodrigobisppo123@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="E-mail" />
 </a>
-
-</div>
 
 ---
 
