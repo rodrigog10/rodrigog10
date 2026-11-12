@@ -23,6 +23,12 @@
 [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
 [![Maven](https://skillicons.dev/icons?i=maven)](https://skillicons.dev)
+<a href="https://junit.org/junit5/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" alt="JUnit" height="40"/></a>
+[![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logoColor=white)](https://site.mockito.org/)
+[![Lombok](https://img.shields.io/badge/Lombok-BC2E2E?style=for-the-badge&logoColor=white)](https://projectlombok.org/)
+[![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)](https://flywaydb.org/)
+[![MapStruct](https://img.shields.io/badge/MapStruct-1E88E5?style=for-the-badge&logoColor=white)](https://mapstruct.org/)
+[![Scalar](https://img.shields.io/badge/Scalar_OpenAPI-000000?style=for-the-badge&logoColor=white)](https://scalar.com/)
 
 ### 🎨 front-end
 
