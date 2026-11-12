@@ -23,12 +23,6 @@
 [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
 [![Maven](https://skillicons.dev/icons?i=maven)](https://skillicons.dev)
-[![Lombok](https://skillicons.dev/icons?i=lombok)](https://skillicons.dev)
-[![JUnit](https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/)
-[![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logoColor=white)](https://site.mockito.org/)
-[![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)](https://flywaydb.org/)
-[![MapStruct](https://img.shields.io/badge/MapStruct-1E88E5?style=for-the-badge&logoColor=white)](https://mapstruct.org/)
-[![Scalar](https://img.shields.io/badge/Scalar_OpenAPI-000000?style=for-the-badge&logoColor=white)](https://scalar.com/)
 
 ### 🎨 front-end
 
@@ -37,17 +31,15 @@
 [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
 [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
-[![Vercel](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
 
 ### 🧰 ferramentas
 
 [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 
-###  OS
+### OS
 [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 [![Linux Mint](https://skillicons.dev/icons?i=mint)](https://skillicons.dev)
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigobisppo)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rodrigobisppo123@gmail.com)
