@@ -21,10 +21,10 @@
 
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind" height="48" alt="Front-end" />
 
-**Ferramentas**
+**Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github" height="48" alt="Ferramentas" />
 
-**Sistemas Operacionais**
+**SO**
 
 <img src="https://skillicons.dev/icons?i=linux,mint" height="48" alt="Sistemas operacionais" />
