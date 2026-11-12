@@ -1,6 +1,6 @@
 
 
-# hi, im Rodrigo 👋
+# Hi, im Rodrigo 👋
 
 ### student at [CESAR School](https://www.cesar.school/) 🎓  
 📍 Recife, Brazil
