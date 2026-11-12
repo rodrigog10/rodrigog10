@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Rodrigo%20%F0%9F%91%8B&fontSize=56&fontColor=ffffff&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Rodrigo&fontSize=56&fontColor=ffffff&fontAlignY=38)
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF7A00&width=520&lines=Recife%2C+Brazil+%F0%9F%93%8D;Back-end+developer;Student+at+CESAR+School+-+Recife+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&width=520&lines=Recife%2C+Brazil;Back-end+developer;Student+at+CESAR+School" alt="Typing SVG" />
 </a>
 
 <p>
@@ -11,27 +11,27 @@
 
 ---
 
-### 🛠️ Skills
+### Skills
 
-**🔧 Back-end**
+**Back-end**
 
 <img src="https://skillicons.dev/icons?i=spring,postgres,mysql,docker,postman,maven" height="48" alt="Back-end" />
 
-**🎨 Front-end**
+**Front-end**
 
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind" height="48" alt="Front-end" />
 
-**🧰 Ferramentas**
+**Ferramentas**
 
 <img src="https://skillicons.dev/icons?i=git,github" height="48" alt="Ferramentas" />
 
-**🐧 Sistemas Operacionais**
+**Sistemas Operacionais**
 
 <img src="https://skillicons.dev/icons?i=linux,mint" height="48" alt="Sistemas operacionais" />
 
 ---
 
-### 📊 GitHub
+### GitHub
 
 <img src="https://github-readme-stats.vercel.app/api?username=rodrigog10&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="Stats" />
 &nbsp;
@@ -39,4 +39,4 @@
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header)
