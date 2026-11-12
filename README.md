@@ -22,13 +22,27 @@
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+[![Maven](https://skillicons.dev/icons?i=maven)](https://skillicons.dev)
+[![Lombok](https://skillicons.dev/icons?i=lombok)](https://skillicons.dev)
+[![JUnit](https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/)
+[![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logoColor=white)](https://site.mockito.org/)
+[![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)](https://flywaydb.org/)
+[![MapStruct](https://img.shields.io/badge/MapStruct-1E88E5?style=for-the-badge&logoColor=white)](https://mapstruct.org/)
+[![Scalar](https://img.shields.io/badge/Scalar_OpenAPI-000000?style=for-the-badge&logoColor=white)](https://scalar.com/)
 
 ### 🎨 front-end
 
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
 [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+[![Vercel](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
+
+### 🧰 ferramentas
+
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 
 ###  OS
 [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
