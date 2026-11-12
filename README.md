@@ -1,8 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rodrigo&fontSize=60&fontColor=ffffff&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Rodrigo%20%F0%9F%91%8B&fontSize=56&fontColor=ffffff&fontAlignY=38)
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=520&lines=Hi%2C+I'm+Rodrigo+%F0%9F%91%8B;Student+at+CESAR+School+%F0%9F%8E%93;Back-end+developer+in+training;Recife%2C+Brazil+%F0%9F%93%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=520&lines=Back-end+developer+in+training;Java+%C2%B7+Spring+Boot+%C2%B7+Docker;Recife%2C+Brazil+%F0%9F%93%8D" alt="Typing SVG" />
 </a>
+
+<p>
+  Student at <img src="https://img.shields.io/badge/CESAR_School-FF7A00?style=flat-square&logoColor=white" alt="CESAR School"/> 🎓
+</p>
 
 <p>
   <a href="https://linkedin.com/in/rodrigobisppo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
