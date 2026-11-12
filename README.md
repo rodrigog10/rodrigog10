@@ -1,41 +1,46 @@
+<div align="center">
 
+# Hi, I'm Rodrigo 👋
 
-# Hi, im Rodrigo 👋
-
-### student at [CESAR School](https://www.cesar.school/) 🎓  
+### Student at [CESAR School](https://www.cesar.school/) 🎓
 📍 Recife, Brazil
 
 <a href="https://linkedin.com/in/rodrigobisppo">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn" />
 </a>
+&nbsp;&nbsp;
 <a href="mailto:rodrigobisppo123@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="E-mail" />
+  <img src="https://skillicons.dev/icons?i=gmail" height="36" alt="E-mail" />
 </a>
+
+</div>
+
+<br>
+
+<div align="center">
 
 ---
 
-## 🛠️ skills
+## 🛠️ Skills
 
-### 🔧 back-end
+### 🔧 Back-end
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,postgres,mysql,docker,postman,maven" height="40" alt="Back-end" />
-</p>
+<img src="https://skillicons.dev/icons?i=spring,postgres,mysql,docker,postman,maven" height="48" alt="Back-end" />
 
-### 🎨 front-end
+### 🎨 Front-end
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind" height="40" alt="Front-end" />
-</p>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind" height="48" alt="Front-end" />
 
-### 🧰 ferramentas
+### 🧰 Ferramentas
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github" height="40" alt="Ferramentas" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github" height="48" alt="Ferramentas" />
 
-### 🐧 OS
+### 🐧 Sistemas Operacionais
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,mint" height="40" alt="Sistemas operacionais" />
-</p>
+<img src="https://skillicons.dev/icons?i=linux,mint" height="48" alt="Sistemas operacionais" />
+
+---
+
+<sub>Feito com ☕ e muito código em Recife</sub>
+
+</div>
