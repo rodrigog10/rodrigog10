@@ -28,11 +28,3 @@
 **Sistemas Operacionais**
 
 <img src="https://skillicons.dev/icons?i=linux,mint" height="48" alt="Sistemas operacionais" />
-
----
-
-### GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=rodrigog10&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="Stats" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigog10&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top languages" />
