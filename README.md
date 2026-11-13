@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Rodrigo%20%F0%9F%91%8B&fontSize=56&fontColor=ffffff&fontAlign=10&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Rodrigo%20%F0%9F%91%8B&fontSize=56&fontColor=ffffff&fontAlign=25&fontAlignY=38)
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&width=520&lines=Recife%2C+Brazil;Back-end+developer;Student+at+CESAR+School" alt="Typing SVG" />
