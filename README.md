@@ -27,7 +27,7 @@
 
 **IDE**
 
-<img src="https://skillicons.dev/icons?i=intellij" height="48" alt="IDE" />
+<img src="https://skillicons.dev/icons?i=idea" height="48" alt="IDE" />
 
 **SO**
 
