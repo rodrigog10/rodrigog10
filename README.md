@@ -25,6 +25,10 @@
 
 <img src="https://skillicons.dev/icons?i=git,github" height="48" alt="Ferramentas" />
 
+**IDE**
+
+<img src="https://skillicons.dev/icons?i=intellij" height="48" alt="IDE" />
+
 **SO**
 
 <img src="https://skillicons.dev/icons?i=linux,mint" height="48" alt="Sistemas operacionais" />
