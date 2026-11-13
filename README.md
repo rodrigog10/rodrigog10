@@ -15,7 +15,7 @@
 
 **Back-end**
 
-<img src="https://skillicons.dev/icons?i=spring,postgres,mysql,docker,postman,maven" height="48" alt="Back-end" />
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,postman,maven" height="48" alt="Back-end" />
 
 **Front-end**
 
